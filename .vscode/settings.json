@@ -1,0 +1,7 @@
+{
+    "java.checkstyle.configuration": "/google_checks.xml",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/manish/Java/Jar/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"
+    ]
+}
